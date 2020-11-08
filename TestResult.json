@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "TC": "Test Case 1",
+        "Iteration": "10",
+		"Result": "Pass"
+    },
+    {
+        "id": "2",
+        "TC": "Test Case 2",
+        "Iteration": "5",
+		"Result": "Fail"
+    },
+    {
+        "id": "3",
+        "TC": "Test Case 3",
+        "Iteration": "1",
+		"Result": "NT"
+    }
+]
